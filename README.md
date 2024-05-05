@@ -1,4 +1,4 @@
-# movie-recommender-system-tmdb-dataset
+# movie-recommender-system-imdb-dataset
 A content based movie recommender system using cosine similarity
 • Data Acquisition and Preprocessing: Acquired movie dataset from Kaggle website and Conducted thorough data preprocessing to handle missing values, clean data, and perform necessary transformations for analysis.
 • Feature Engineering and Vectorization: Utilized feature engineering techniques to extract relevant features from the dataset and Implemented vectorization methods to convert textual data into numerical format suitable for machine learning algorithms
